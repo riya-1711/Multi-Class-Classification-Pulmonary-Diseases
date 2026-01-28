@@ -4,7 +4,7 @@ This project explores Chest X-ray classification using both classical machine le
 
 ---
 
-## Techniques Used
+## Techniques Used:
 
 1. **Deep Learning Models**:
    - **Custom CNN**: A lightweight model designed for Chest X-ray classification.
