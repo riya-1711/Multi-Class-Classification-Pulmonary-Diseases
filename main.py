@@ -29,3 +29,5 @@ if __name__ == "__main__":
     run_tsne(*args)
     run_umap(*args)
     run_grad_cam(test_dir, pre_trained_attention_model_path)
+
+    print("FINISH!YAY")
